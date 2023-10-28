@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.new {
+    font: Montserrat;
+}
