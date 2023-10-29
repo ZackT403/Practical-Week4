@@ -8,13 +8,6 @@ body::-webkit-scrollbar {
     display: none;
 }
 
-.new {
-    font: Montserrat;
-}
-
-
-.rcorners2 {
-    border-radius: 25px;
-    border: 2px solid #73AD21;
-    padding: 20px;
+.montserrat {
+    font-family: Montserrat;
 }
