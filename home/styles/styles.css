@@ -1,0 +1,30 @@
+.title-margin{
+    margin: 2%;
+}
+.card-background {
+    background-color: rgb(242, 243, 243);
+    border: 0;
+}
+.clickable-card {
+    background-color: rgb(242, 243, 243);
+    border: 0;
+}
+.scrolling-card {
+    background-color: rgb(242, 243, 243);
+    border: 0;
+}
+.landing-images {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+
+}
+
+.image-card {
+    border-radius: 5%;
+}
+
+.clickable-card:hover{
+    background-color: rgb(178, 182, 182);
+    cursor: pointer;
+}
